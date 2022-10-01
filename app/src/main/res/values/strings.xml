@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">aplikasi Sertifikasi</string>
+    <string name="form_isi_data_pendaftaran">form isi data pendaftaran</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="no_hp">No Hp</string>
+    <string name="sumbit">sumbit</string>
+    <string name="cordinat">cordinat</string>
+    <string name="pilih_gambar">pilih gambar</string>
+    <string name="jenis_kelamin">jenis kelamin</string>
+    <string name="no">NO</string>
+    <string name="nomer">No</string>
+    <string name="location">location</string>
+    <string name="foto">foto</string>
+</resources>

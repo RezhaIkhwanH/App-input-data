@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DATA/Data bacup/New folder/ANDROID PRojeCT/sertifikasi/app/src/main/res/drawable/bacground.xml" value="0.1085" />
+        <entry key="..\:/DATA/Data bacup/New folder/ANDROID PRojeCT/sertifikasi/app/src/main/res/drawable/bacground_btn.xml" value="0.1085" />
+        <entry key="..\:/DATA/Data bacup/New folder/ANDROID PRojeCT/sertifikasi/app/src/main/res/drawable/bacground_form.xml" value="0.1085" />
+        <entry key="..\:/DATA/Data bacup/New folder/ANDROID PRojeCT/sertifikasi/app/src/main/res/drawable/backgroud_row.xml" value="0.1215" />
+        <entry key="..\:/DATA/Data bacup/New folder/ANDROID PRojeCT/sertifikasi/app/src/main/res/drawable/backgroud_row_awal.xml" value="0.1215" />
+        <entry key="..\:/DATA/Data bacup/New folder/ANDROID PRojeCT/sertifikasi/app/src/main/res/drawable/background_table.xml" value="0.1085" />
+        <entry key="..\:/DATA/Data bacup/New folder/ANDROID PRojeCT/sertifikasi/app/src/main/res/drawable/colom_style.xml" value="0.1085" />
+        <entry key="..\:/DATA/Data bacup/New folder/ANDROID PRojeCT/sertifikasi/app/src/main/res/drawable/icon_background.xml" value="0.1215" />
+        <entry key="..\:/DATA/Data bacup/New folder/ANDROID PRojeCT/sertifikasi/app/src/main/res/drawable/icon_default_background.xml" value="0.1" />
+        <entry key="..\:/DATA/Data bacup/New folder/ANDROID PRojeCT/sertifikasi/app/src/main/res/drawable/input_costum.xml" value="0.1085" />
+        <entry key="..\:/DATA/Data bacup/New folder/ANDROID PRojeCT/sertifikasi/app/src/main/res/layout/activity_main.xml" value="0.27586206896551724" />
+        <entry key="..\:/DATA/Data bacup/New folder/ANDROID PRojeCT/sertifikasi/app/src/main/res/layout/activity_tampil_data.xml" value="0.258974358974359" />
+        <entry key="..\:/DATA/Data bacup/New folder/ANDROID PRojeCT/sertifikasi/app/src/main/res/layout/row_style.xml" value="0.2" />
+        <entry key="..\:/DATA/Data bacup/New folder/ANDROID PRojeCT/sertifikasi/app/src/main/res/mipmap-anydpi-v26/icon_default.xml" value="0.1215" />
+        <entry key="..\:/DATA/Data bacup/New folder/ANDROID PRojeCT/sertifikasi/app/src/main/res/mipmap-anydpi-v26/icon_default_round.xml" value="0.1215" />
+        <entry key="..\:/DATA/Data bacup/New folder/ANDROID PRojeCT/sertifikasi/app/src/main/res/mipmap-anydpi-v26/icon_round.xml" value="0.1215" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

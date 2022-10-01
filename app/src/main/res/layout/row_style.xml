@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="2dp"
+    android:background="@drawable/backgroud_row"
+    android:padding="5dp"
+
+    >
+
+    <TextView
+        style="@style/celStyle"
+        android:id="@+id/no"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:padding="5dp"
+        android:text="@string/no"
+        android:textColor="@color/black"
+        android:textSize="19sp" />
+
+    <TextView
+        style="@style/celStyle"
+        android:id="@+id/nama"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:padding="5dp"
+        android:text="@string/nama"
+        android:textColor="@color/black"
+        android:textSize="19sp" />
+
+    <TextView
+        style="@style/celStyle"
+        android:id="@+id/alamat"
+        android:layout_height="match_parent"
+
+        android:gravity="center_vertical"
+        android:padding="5dp"
+        android:text="@string/alamat"
+        android:textColor="@color/black"
+        android:textSize="19sp"
+
+        />
+
+    <TextView
+        style="@style/celStyle"
+        android:id="@+id/nohp"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:padding="5dp"
+        android:text="@string/no_hp"
+        android:textColor="@color/black"
+        android:textSize="19sp"
+
+        />
+
+    <TextView
+        style="@style/celStyle"
+        android:id="@+id/jenisKelamin"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:padding="5dp"
+        android:text="@string/jenis_kelamin"
+        android:textColor="@color/black"
+        android:textSize="19sp"
+
+        />
+
+    <TextView
+        style="@style/celStyle"
+        android:id="@+id/location"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:padding="5dp"
+        android:text="location"
+        android:textColor="@color/black"
+        android:textSize="19sp"
+
+        />
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:gravity="center_vertical"
+        android:padding="10dp" />
+
+
+</TableRow>

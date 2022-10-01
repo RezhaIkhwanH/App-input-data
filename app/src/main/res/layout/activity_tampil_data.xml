@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bacground"
+    tools:context=".TampilData">
+
+    <ScrollView
+        style="@style/corner"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <HorizontalScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TableLayout
+                android:id="@+id/table"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@drawable/background_table"
+                android:clipToOutline="true"
+                android:clipToPadding="true"
+                android:stretchColumns="1"
+                android:layout_marginEnd="20dp"
+                android:weightSum="7">
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/backgroud_row_awal"
+                    android:padding="5dp">
+
+                    <TextView
+                        style="@style/celStyle"
+                        android:gravity="center_vertical"
+                        android:padding="5dp"
+                        android:text="@string/nomer"
+                        android:textColor="@color/black"
+                        android:textSize="19sp" />
+
+                    <TextView
+                        style="@style/celStyle"
+                        android:gravity="center_vertical"
+                        android:padding="5dp"
+                        android:text="@string/nama"
+                        android:textColor="@color/black"
+                        android:textSize="19sp" />
+
+                    <TextView
+                        style="@style/celStyle"
+                        android:gravity="center_vertical"
+                        android:padding="5dp"
+                        android:text="@string/alamat"
+                        android:textColor="@color/black"
+                        android:textSize="19sp"
+
+                        />
+
+                    <TextView
+                        style="@style/celStyle"
+                        android:gravity="center_vertical"
+                        android:padding="5dp"
+                        android:text="@string/no_hp"
+                        android:textColor="@color/black"
+                        android:textSize="19sp"
+
+                        />
+
+                    <TextView
+                        style="@style/celStyle"
+                        android:gravity="center_vertical"
+                        android:padding="5dp"
+                        android:text="@string/jenis_kelamin"
+                        android:textColor="@color/black"
+                        android:textSize="19sp"
+
+                        />
+
+                    <TextView
+                        style="@style/celStyle"
+                        android:gravity="center_vertical"
+                        android:padding="5dp"
+                        android:text="@string/location"
+                        android:textColor="@color/black"
+                        android:textSize="19sp"
+
+                        />
+
+                    <TextView
+                        style="@style/celStyle"
+                        android:gravity="center_vertical"
+                        android:padding="5dp"
+                        android:text="@string/foto"
+                        android:textColor="@color/black"
+                        android:textSize="19sp" />
+
+
+                </TableRow>
+
+
+            </TableLayout>
+
+
+        </HorizontalScrollView>
+    </ScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
